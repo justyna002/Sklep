@@ -11,7 +11,7 @@ import model.Szkolenia;
 public class Menu {
 
 	public void wyswietlMenu(){
-		
+		// ...
 		Sklep sklep = new Sklep("www.skle.pl");
 		System.out.println("1. Dodawaj produkt");
 		System.out.println("2. Usuñ produkt");
